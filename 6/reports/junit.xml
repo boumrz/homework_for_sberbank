@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="10" failures="0" time="6.187">
+  <testsuite name="totalWeight" errors="0" failures="0" skipped="0" timestamp="2019-10-27T00:18:45" time="3.054" tests="1">
+    <testcase classname="totalWeight No items - weight zero" name="totalWeight No items - weight zero" time="0.007">
+    </testcase>
+  </testsuite>
+  <testsuite name="Constructors test" errors="0" failures="0" skipped="0" timestamp="2019-10-27T00:18:45" time="3.435" tests="9">
+    <testcase classname="Constructors test Certain id - correct id" name="Constructors test Certain id - correct id" time="0.005">
+    </testcase>
+    <testcase classname="Constructors test Meat - correct" name="Constructors test Meat - correct" time="0.001">
+    </testcase>
+    <testcase classname="Constructors test Beer - correct" name="Constructors test Beer - correct" time="0">
+    </testcase>
+    <testcase classname="Constructors test Bread - correct" name="Constructors test Bread - correct" time="0.001">
+    </testcase>
+    <testcase classname="Constructors test Milk - correct" name="Constructors test Milk - correct" time="0">
+    </testcase>
+    <testcase classname="Constructors test Eggs - correct" name="Constructors test Eggs - correct" time="0.001">
+    </testcase>
+    <testcase classname="Test Methods show" name="Test Methods show" time="0">
+    </testcase>
+    <testcase classname="Test Methods sendToTrash" name="Test Methods sendToTrash" time="0.001">
+    </testcase>
+    <testcase classname="Test Methods getFromTrash" name="Test Methods getFromTrash" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
